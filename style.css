@@ -67,7 +67,7 @@ h5 {
     background-size: 100%;
     background-position: 0px -300px;
     display: block;
-    height: auto;
+    min-height: 100vh;
     width: 100%;
     position: relative;
     z-index: 1;
@@ -103,8 +103,14 @@ h5 {
     padding-top: 20%;
 }
 
+.bmw-content h1 {
+    padding-bottom: 50px;
+}
 .bmw-content p {
     width: 80%;
+}
+.bmw-content .p-1 {
+    padding-bottom: 20px;
 }
 
 .car-image {
