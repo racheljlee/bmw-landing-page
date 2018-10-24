@@ -5,4 +5,4 @@ HTML & CSS.
 Adding responsiveness across mobile devices.
 
 Design:
-![alt text](https://github.com/racheljlee/bmw-landing-page/blob/master/bmw-x7_bmwofokemos.png?raw=true)
+![page design](https://github.com/racheljlee/bmw-landing-page/raw/master/bmw-x7_landing_design.png?raw=true)
