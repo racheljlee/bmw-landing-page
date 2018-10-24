@@ -35,8 +35,8 @@ h1, h2, h3, h5, h6 {
     letter-spacing: 2px;
 }
 
-h2 
-    font-size: 2em;
+h2 {
+    font-size: 2.5em;
     letter-spacing: 2px;
 }
 
@@ -227,4 +227,5 @@ a {
 .preorder-action p {
     color: #666;
     font-size: .8em;
+    padding-top: 20px;
 }
